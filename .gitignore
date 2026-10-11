@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+.DS_Store
+
+# Raw image data is not tracked (see data/Subconjunto_2018/README.md)
+data/Subconjunto_2018/images/
+data/Subconjunto_2018/masks/
+data/Subconjunto_2018_procesado/
+
+# Website build output
+public/
+website/cache/
